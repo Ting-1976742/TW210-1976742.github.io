@@ -1,2 +1,2 @@
-# TW210-1976742.github.io
+# Ting-1976742.github.io
 INFO 101 student
